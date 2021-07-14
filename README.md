@@ -58,8 +58,6 @@ Additional anlyses could yield additional insights to provide more specific reco
 - Identifying the best genre of movie for both profitability and recognition. This recommendation would require deeper analysis with existing data, but provide a more gradient recommendation that is balances priorities.
 - Predicting what genres to avoid. This modeling would identify genres that have performed poorly which would shorten the list of viable options available.
 
-jupyter nbconvert --to markdown README.ipynb
-
 
 ```python
 
